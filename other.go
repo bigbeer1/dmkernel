@@ -1,6 +1,6 @@
 // 其他
 
-package dmsofts
+package dmkernel
 
 func (com *DmSoft) DmGuard(enable, lType int) int {
 	ret, _ := com.dm.CallMethod("DmGuard", enable, lType)

@@ -1,5 +1,5 @@
 // 图色
-package dmsofts
+package dmkernel
 
 import ole "github.com/go-ole/go-ole"
 

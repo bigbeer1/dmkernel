@@ -1,7 +1,7 @@
 // +build windows
 // export GOARCH=386
 
-package dmsofts
+package dmkernel
 
 import (
 	"syscall"

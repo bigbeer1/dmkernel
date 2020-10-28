@@ -1,4 +1,4 @@
-module dmkernel
+module github.com/bigbeer1/dmkernel
 
 go 1.15
 

@@ -1,6 +1,6 @@
 // 文字识别
 
-package dmsofts
+package dmkernel
 
 import (
 	ole "github.com/go-ole/go-ole"

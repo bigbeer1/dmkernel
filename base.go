@@ -1,4 +1,4 @@
-package dmsofts
+package dmkernel
 
 func (com *DmSoft) EnablePicCache(enable int) int {
 	ret, _ := com.dm.CallMethod("EnablePicCache", enable)

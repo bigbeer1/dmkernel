@@ -1,6 +1,6 @@
 // 系统
 
-package dmsofts
+package dmkernel
 
 func (com *DmSoft) Beep(f, duration int) int {
 	ret, _ := com.dm.CallMethod("Beep", f, duration)

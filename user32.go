@@ -1,4 +1,4 @@
-package dmsofts
+package dmkernel
 
 import (
 	"github.com/lxn/win"

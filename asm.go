@@ -1,6 +1,6 @@
 // 汇编
 
-package dmsofts
+package dmkernel
 
 func (com *DmSoft) AsmAdd(asmIns string) int {
 	ret, _ := com.dm.CallMethod("AsmAdd", asmIns)

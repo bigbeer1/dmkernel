@@ -1,6 +1,6 @@
 // 后台
 
-package dmsofts
+package dmkernel
 
 func (com *DmSoft) BindWindow(hwnd int, display string, mouse string, keypad string, mode int) int {
 	ret, _ := com.dm.CallMethod("BindWindow", hwnd, display, mouse, keypad, mode)
