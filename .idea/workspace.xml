@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d0171a3-45f0-428b-80d2-f51fda05b5c0" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jVUZwnVj3boBbEtjA5Wo929pap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.全局.GOPATH.is.expanded" value="true" />
+    <property name="configurable.模块.GOPATH.is.expanded" value="false" />
+    <property name="configurable.项目.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\go_project\src\dmkernel\dmsofts" />
+      <recent name="E:\go_project\src\dmkernel\example" />
+      <recent name="E:\go_project\src\dmkernel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\go_project\src\dmkernel\example" />
+      <recent name="E:\go_project\src\dmkernel\dmsofte" />
+      <recent name="E:\go_project\src\dmkernel\dmsoft" />
+      <recent name="E:\go_project\src\dmkernel" />
+      <recent name="E:\go_project\src\dmkernel\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build dmkernel/example">
+    <configuration name="444" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="dmkernel" />
+      <working_directory value="$PROJECT_DIR$/bin" />
+      <sudo value="true" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/examples/windows/main.go" />
+      <directory value="$PROJECT_DIR$/examples/windows" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build dmkernel/example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dmkernel" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/example/main.go" />
+      <package value="dmkernel/example" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build dmsoft" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dmkernel" />
+      <working_directory value="$PROJECT_DIR$/dmsoft" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/dmsoft/main.go" />
+      <package value="dmsoft" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dmkernel" />
+      <working_directory value="$PROJECT_DIR$/example" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/example/main.go" />
+      <package value="example" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dmkernel" />
+      <working_directory value="$PROJECT_DIR$/bin" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="dmkernel" />
+      <directory value="$PROJECT_DIR$/bin" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go 构建.444" />
+      <item itemvalue="Go 构建.go build main.go" />
+      <item itemvalue="Go 构建.go build example" />
+      <item itemvalue="Go 构建.go build dmsoft" />
+      <item itemvalue="Go 构建.go build dmkernel/example" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build dmkernel/example" />
+        <item itemvalue="Go 构建.go build example" />
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build dmsoft" />
+        <item itemvalue="Go 构建.444" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="837" y="375" key="#Go_模块" timestamp="1603889093966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="375" key="#Go_模块/0.0.1920.1040@0.0.1920.1040" timestamp="1603889093966" />
+    <state x="548" y="274" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603890511967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="548" y="274" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603890511967" />
+    <state x="801" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603890607043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603890607043" />
+    <state x="874" y="414" key="FileChooserDialogImpl" timestamp="1603889649686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="874" y="414" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603889649686" />
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom" timestamp="1603890623134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603890623134" />
+    <state width="1877" height="387" key="GridCell.Tab.0.center" timestamp="1603890623133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603890623133" />
+    <state width="1877" height="387" key="GridCell.Tab.0.left" timestamp="1603890623133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603890623133" />
+    <state width="1877" height="387" key="GridCell.Tab.0.right" timestamp="1603890623133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="387" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603890623133" />
+    <state x="546" y="186" key="SettingsEditor" timestamp="1603890877232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="186" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603890877232" />
+  </component>
+</project>
